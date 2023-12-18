@@ -1,4 +1,5 @@
 """
+#code by shreyash
 Link: 
 https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category=Arrays&sortBy=submissions
 
